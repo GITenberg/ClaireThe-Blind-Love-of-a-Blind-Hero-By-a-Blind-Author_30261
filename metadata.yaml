@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34469'
     url: http://www.gutenberg.org/2009/agents/34469
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30261#ClaireThe-Blind-Love-of-a-Blind-Hero-By-a-Blind-Author
 gutenberg_issued: '2009-10-15'
 gutenberg_type: Text
 identifiers:
